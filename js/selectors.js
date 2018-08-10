@@ -18,3 +18,4 @@ function imageSelector(){
 
 function checkboxInputSelector(){
   return $('input[type="checkbox"]');
+}
